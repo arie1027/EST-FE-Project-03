@@ -1,0 +1,1 @@
+import './js/products.js'; // products.js를 import하여 실행
